@@ -1,3 +1,4 @@
+// JavaScript source code
 {
   "units": {
     "Republic": {
@@ -74,12 +75,4 @@
                   }
                 ]
               }
-            ],
-
-    }
-  },
-
-  "upgrades": {},
-  "battlefield": {},
-  "commands": {}
-}
+            }
