@@ -137,6 +137,10 @@
                     "points": 145,
                     "speed": 2,
                     "upgrades": {
+                     "Pilot": 1,
+                     "Hardpoint": 1,
+                     "Crew": 1,
+                     "Ordnance": 1,
                       "Comms": 1,
                       "Generator": 1
                     },
