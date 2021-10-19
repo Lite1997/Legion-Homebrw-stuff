@@ -38,18 +38,18 @@
 	},
 
 	"upgrades": {
-        "Armament" : [
-        "name", "DC-17m Anti-Armor Config",
-        "image", "---------",
-        "flip", {
+        "Armament" : [],
+        "name": "DC-17m Anti-Armor Config",
+        "image": "---------",
+        "flip": {
             "name": "Dc-17 Sniper Config",
             "image": "-----"
           },
-        "points", 10,
-        "restrictions", {
+        "points": 10,
+        "restrictions": {
             "include": {
                 "unit": ["Republic Commandos"]
              }
     
                
-        }
+    }
