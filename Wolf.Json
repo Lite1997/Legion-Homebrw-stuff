@@ -11,9 +11,9 @@
           "points": 90,
           "speed": 2,
           "upgrades": {
-            "Gear": 1,
-            "Command": 1,
+           "Command": 1,
             "Training": 1,
+ 	     "Gear": 1,
 	    "Grenades": 1
           },
           "minis": [
@@ -42,7 +42,7 @@
         }
       ]
     }
-]
+  },
 
   "upgrades": {},
   "battlefield": {},
