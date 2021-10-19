@@ -40,44 +40,9 @@
             }
           ]
         }
-      ],
-"Corps": [
-              {
-                "name": "First Order Stormtroopers",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1027324804931510298/AF04FDEDA7216024A534A74F972923DDBFF8A2A5/",
-                "size": "small",
-                "type": "Trooper",
-                "points": 52,
-                "speed": 2,
-                "upgrades": {
-                  "Heavy Weapon": 1,
-                  "Personnel": 1,
-                  "Training": 1,
-                  "Gear": 1,
-                  "Grenades": 1
-                },
-                "minis": [
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926496354/534247FC18865263C1D30BC8C906CB39C93B0394/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
-                  },
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926504208/94BA6801EC3D5C7915A803C8DB037D55499DA148/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
-                  },
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926505290/B0670893C896898E6BE4CAB01744CE00F1FFE52B/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
-                  },
-                  {
-                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804926506313/1AF44B793BDE12347BA28238D08E48E507CFBD02/",
-                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804926496614/9FECECAF48C7046C3714B33C4C16FFB773FCC94C/"
-                  }
-                ]
-              }
-            ],
+      ]
     }
-  },
+]
 
   "upgrades": {},
   "battlefield": {},
