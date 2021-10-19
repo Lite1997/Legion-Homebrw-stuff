@@ -40,9 +40,43 @@
             }
           ]
         }
-      ]
-    }
-  },
+      ],
+
+      "Corps": [
+        {
+          "name": "Clone trench troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601746312/136E057E60064E60EFEE513DBF3BC3782A97003B/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 58,
+          "speed": 2,
+          "upgrades": {
+            "Heavy weapon": 1,
+	    "Personnel": 1,
+            "Training": 1,
+             "Gear": 1,
+	    "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+            }
+ {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+            }
+ {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+            }
+ {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+          }
+                ]
+              }
+            ],
 
   "upgrades": {},
   "battlefield": {},
