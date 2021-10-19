@@ -1,4 +1,3 @@
-// JavaScript source code
 {
   "units": {
     "Republic": {
@@ -41,23 +40,33 @@
             }
           ]
         }
-      ],
-"Corps": [
-              {
-                "name": "Clone Commandoes",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1027324804931510298/AF04FDEDA7216024A534A74F972923DDBFF8A2A5/",
-                "size": "small",
-                "type": "Clone Trooper",
-                "points": 80,
-                "speed": 2,
-                "upgrades": {
-                  "Training": 1,
-                  "Comms": 1,
-                  "Gear": 2,
-                  "Armament": 1,
-                  "Grenades": 1
-                },
-                "minis":  [{
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
+{
+  "units": {
+    "Republic": {
+      "Special Forces": [
+        {
+          "name": "Clone Commandos",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601746312/136E057E60064E60EFEE513DBF3BC3782A97003B/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+ 	     "Armament": 1,
+	    "Grenades": 1
+          },
+          "minis": [{
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
                   },
@@ -72,7 +81,41 @@
                   {
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
-                  }
-                ]
+            }
+          ],
+          "commands": [
+            {
+              "name": "Close In For The Kill",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601754318/DD62F70F98F6164F8B9DA6B82E2E56D81405794F/",
+              "pip": 1
+            },
+            {
+              "name": "Crippling Shots",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601755530/5CFB1771CAEE477977C745A275B3F1D262D079CE/",
+              "pip": 2
+            },
+            {
+              "name": "Pack Tactics",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601755933/F69A6E7A25B7DB272D9E5C363A2B23884F829C2D/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
+    {
+            "name": "DC-17m Anti-Armor Config",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747570525/CACD6285B8098528A1E23C5AA68F3EB68076B4DF/",
+            "points": 18,
+            "restrictions": {
+              "include": {
+                "unit": ["Republic Commandos"]
               }
             }
+          },
