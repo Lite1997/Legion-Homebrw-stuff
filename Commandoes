@@ -1,0 +1,56 @@
+ {
+	"units": {
+		"Republic": {
+			"Special Forces": [{
+				"name": "Republic Commandos",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1678142292861446473/BDCD19B6F0894E4799030E5F0A979702E4046112/",
+				"size": "small",
+				"type": "Clone Trooper",
+				"points": 80,
+				"speed": 2,
+				"upgrades": {
+					"Training": 1,
+					"Comms": 1,
+					"Gear": 2,
+					"Armament": 1,
+					"Grenades": 1
+				},
+				"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+					},
+					{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+					},
+					{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+					},
+					{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+					}
+				]
+
+			}]
+		}
+	},
+
+    "Armament": [
+        {
+        "name": "DC-17m Anti-Armor Config",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861446978/A164F9AD4862CBE4CD27C64CCD8A9B1C88E9B2F1/",
+        "flip": {
+            "name": "DC-17 Sniper Config",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861447249/AD305DB6DB506345FB48FFEC673FBEFCBA2D2E8D/"
+                },
+                "points": 10,
+        "restrictions": {
+            "include": {
+                "unit": ["Republic Commandos"]
+                       }
+                        }
+        }
+                     ]
+                    }
