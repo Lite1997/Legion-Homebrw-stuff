@@ -59,7 +59,34 @@
     "Crew": [],
     "Flaws": [],
     "Force": [],
-    "Gear": [],
+    "Gear": [
+        {
+        "name": "Repulsor Blast",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1747951978602444289/E17FE6F9FA258D04F69F0E26610D27312F1ED406/",
+        "points": 10
+      },
+      {
+        "name": "Shield Pack",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861448503/49B1F565107A5EAD7B52B8B92FAB2D1686C43098/",
+        "points": 8
+      },
+      {
+        "name": "Bacta Injector",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861448054/43427D1664538575C2748DFAFD92B4ADCF5E4F31/",
+        "points": 8
+      },
+      {
+        "name": "Tactical Hud",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1678142466926054497/7AA7C65C78F6478E8B44FE4265E57F9E9EF0D599/",
+        "points": 8
+      },
+      {
+        "name": "Cuy'val Dar Training",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1678142466926055312/EA4C440E05B0459CAC71EB5341D2B219F4DE88C2/",
+        "points": 6
+      }
+
+    ],
     "Generator": [],
     "Grenades": [],
     "Hardpoint": [],
