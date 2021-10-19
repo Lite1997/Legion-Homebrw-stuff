@@ -5,7 +5,7 @@
                     {
                       "name": "Commander Wolffe",
                       "title": "Honorable Soldier",
-                      "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601746312/136E057E60064E60EFEE513DBF3BC3782A97003B/",
+                      "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605046498/0253273CA296252FEAA1401CD4200E6AB5AD9905/",
                       "size": "small",
                       "type": "Clone Trooper",
                       "points": 90,
@@ -55,6 +55,7 @@
                       "Personnel": 1,
                       "Heavy Weapon": 1,
                       "Training": 1,
+                      "Gear": 1,
                       "Comms": 1,
                       "Grenades": 1
                     },
@@ -127,9 +128,28 @@
 
             }],
             "Support": [],
-            "Heavy": []
-        }
-    },
+            "Heavy": [
+                {
+                    "name": "Laat/I Gunship",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605119287/C97A0AECF23C04C4DCCD589035F9A336AA3113FA/",
+                    "size": "Epic",
+                    "type": "Repulsor Vehicle",
+                    "points": 145,
+                    "speed": 2,
+                    "upgrades": {
+                      "Comms": 1,
+                      "Generator": 1
+                    },
+                    "minis": [{
+                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
+                      "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454854943501740/E509E21CEB3321071E6F56B006F24C1D919B6F3B/"
+                    }]
+                  }
+              ]
+          }
+
+            
+        },
     "upgrades": {
     "Armament": [
         {
@@ -150,7 +170,18 @@
        "Command": [],
     "Comms": [],
     "Counterpart": [],
-    "Crew": [],
+    "Crew": [
+        {
+            "name": "2-1bSurgical Droid",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605121746/D89CA287C62C183ED481B04CC004B78B26ED91C0/",
+            "points": 15,
+            "restrictions": {
+                "include": {
+                  "unit": ["Laat/I Gunship"]
+              }
+          }
+          }
+    ],
     "Flaws": [],
     "Force": [],
     "Gear": [
@@ -197,7 +228,22 @@
     ],
     "Generator": [],
     "Grenades": [],
-    "Hardpoint": [],
+    "Hardpoint": [
+        {
+        "name": "Closed Side Doors",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605120044/5AD4ECC19A89C9128B6210B672D3104969A7AF55/",
+        "flip": {
+            "name": "Open Side Doors",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605119777/0EB1C46C725F111EA312976A382F3D5D2A507B56/"
+                },
+                "points": 0,
+        "restrictions": {
+            "include": {
+                "unit": ["Laat/I Gunship"]
+                       }
+                        }
+        }
+    ],
     "Heavy Weapon": [        
         {
             "name": "Dc-15 Trooper",
@@ -232,17 +278,49 @@
       }
     ],
 
-    "Pilot": [],
+    "Pilot": [
+        {
+            "name": "Hawkeye",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605120519/CA56F4DA20ECD985C00EA4F031EE56AE05A78218/",
+            "points": 10,
+            "restrictions": {
+              "include": {
+                "type": ["Laat/I Gunship"]
+              }
+            }
+          },
+          {
+            "name": "Warthog",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605121271/84E110B45EE16D9D927CEB78EE1ED0682CBE3492/",
+            "points": 10,
+            "restrictions": {
+              "include": {
+                "type": ["Laat/I Gunship"]
+              }
+            }
+          },
+          {
+            "name": "Oddball",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605120904/5B0C3C9275A01134DB70B0231C2ED6CA547F726B/",
+            "points": 10,
+            "restrictions": {
+              "include": {
+                "type": ["Laat/I Gunship"]
+              }
+            }
+          }
+          
+    ],
     "Training": [
         {
             "name": "Cuy'val Dar Training",
             "image": "http://cloud-3.steamusercontent.com/ugc/1678142466926055312/EA4C440E05B0459CAC71EB5341D2B219F4DE88C2/",
             "points": 6,
             "restrictions": {
-                "include": {
-                  "unit": ["Clone Commandos"]
+              "include": {
+                "type": ["Republic Commandos"]
               }
-          }
+            }
           }
     
     ]               
