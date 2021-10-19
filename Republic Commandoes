@@ -35,23 +35,11 @@
 
 			}]
 		}
-	},
+	}
 
-	"upgrades": {
-        "Armament" : [],
-        "name": "DC-17m Anti-Armor Config",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861446978/A164F9AD4862CBE4CD27C64CCD8A9B1C88E9B2F1/",
-        "flip": {
-            "name": "Dc-17 Sniper Config",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861447249/AD305DB6DB506345FB48FFEC673FBEFCBA2D2E8D/"
-          },
-        "points": 10,
-        "restrictions": {
-            "include": {
-                "unit": ["Republic Commandos"]
-             }
-    
+             
+             
                
-        }
-    }
+        
+    
 }
