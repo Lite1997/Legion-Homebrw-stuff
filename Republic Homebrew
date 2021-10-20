@@ -146,11 +146,12 @@
                 "minis": [{
                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454854943501740/E509E21CEB3321071E6F56B006F24C1D919B6F3B/"
-                }]
+                }
+              ]
               }
-            ]
-        }
-      },
+                    ]
+      }
+   },
           
     "upgrades": {
     "Armament": [
