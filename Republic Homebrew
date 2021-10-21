@@ -51,8 +51,7 @@
                       "upgrades": {
                       "Command": 1,
                       "Training": 1,
-                      "Force": 2,
-                      "Grenades": 1
+                      "Force": 2
                       },
                       "minis": [
                         {
