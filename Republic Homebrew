@@ -5,7 +5,7 @@
                     {
                       "name": "Commander Wolffe",
                       "title": "Honorable Soldier",
-                      "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605046498/0253273CA296252FEAA1401CD4200E6AB5AD9905/",
+                      "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119445846/C57124810E11F83EDB323DDAEE0A9138B7732789/",
                       "size": "small",
                       "type": "Clone Trooper",
                       "points": 90,
@@ -25,17 +25,55 @@
                       "commands": [
                         {
                           "name": "Close In For The Kill",
-                          "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601754318/DD62F70F98F6164F8B9DA6B82E2E56D81405794F/",
+                          "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119446285/C9D8D2D97BB11BF0B7C71E50D56FB990D1B8513D/",
                           "pip": 1
                         },
                         {
                           "name": "Crippling Shots",
-                          "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601755530/5CFB1771CAEE477977C745A275B3F1D262D079CE/",
+                          "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119447083/06EC3977D13A050D3AC266E8CB92E74D948EE3B7/",
                           "pip": 2
                         },
                         {
                           "name": "Pack Tactics",
-                          "image": "http://cloud-3.steamusercontent.com/ugc/1747951978601755933/F69A6E7A25B7DB272D9E5C363A2B23884F829C2D/",
+                          "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119447524/AFE93B08F5729C8C0D1768032739B325F99DD33F/",
+                          "pip": 3
+                        }
+                    ]
+                    },
+                    {
+                      "name": "Plo Koon",
+                      "title": "Jedi Master",
+                      "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119491050/7FC3CD15ACFDFD6929E3C91E56547C1D71FB111F/",
+                      "size": "small",
+                      "type": "Trooper",
+                      "points": 175,
+                      "speed": 2,
+                      "upgrades": {
+                      "Command": 1,
+                      "Training": 1,
+                      "Force": 2,
+                      "Grenades": 1
+                      },
+                      "minis": [
+                        {
+                          "mesh": "http://cloud-3.steamusercontent.com/ugc/1749078514119476410/BE1B231DEAB7FA5C515ACBBDC886C3EE09FB4D3E/",
+                          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1749078437885102637/FFCC19B63D822B2DBB334895C04361A27D9635D7/"
+                        }
+                      ],
+                      "commands": [
+                        {
+                          "name": "I don't believe in Chance",
+                          "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119491207/BB23B6DB9DC36DDFA856E0A4B5F8BC41D6674281/",
+                          "pip": 1
+                        },
+                        {
+                          "name": "A Helping Hand",
+                          "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119498954/1D7817FD6ED056B71BBA9273C97C8C34417FBF03/",
+                          "pip": 2
+                        },
+                        {
+                          "name": "Not to me",
+                          "image": "http://cloud-3.steamusercontent.com/ugc/1749078514119499182/6657B5A17BB96F74EC33236F2AD2F326F4526AF4/",
                           "pip": 3
                         }
                     ]
