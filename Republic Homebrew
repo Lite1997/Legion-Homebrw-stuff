@@ -220,13 +220,12 @@
                   "Grenades": 1
               },
               "minis": [{
-                      "Mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785646423/F890985F1B31042E0BC10996930089A3A22BE5C5/",
-                      "Diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785647603/8F9ADBD1429C1AF247858C877548E15E5996F4A9/"
-                  },
-                  {
-                      "Mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
-                      "Diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/"
-                  }
+                      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
+                      "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125783568/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/"
+                  },{
+                    "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
+                    "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125783568/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/"
+                }
               ]
 
           }],
@@ -366,11 +365,11 @@
               }
         },
         {
-        "name": "Clone Commander Havoc",
+        "name": "Arc Commander Havoc",
         "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501178/D43E90E7B628967753AE232F826FAB392452163A/",
         "mini": {
-          "Mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321407636/9315381415E55B835F091392658CBFDED02249F3/",
-          "Diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321603337/2E6BED5A8C36B603A68124154A110C3444578111/"
+          "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
+          "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125891221/34EC84D7ECD99E073417866A9BEC4288E00F5359/"
         },
           "points": 38,
           "restrictions": {
@@ -380,11 +379,11 @@
           }
     },
     {
-    "name": "Clone Commander Blitz",
+    "name": "Arc Commander Blitz",
     "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501027/09CEE585096F91EDD599343E8201529E0A7CA833/",
     "mini": {
-      "Mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321577529/3034903B0501BE08E398BCC7F0D735B308DA9377/",
-      "Diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321714095/A9DC1A4528317A777A1D5A9FA58C23A47F7E882B/"
+      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
+      "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125888748/06BBAAAAC7FB68DAA9351F12008475068A96BFFB/"
     },
       "points": 30,
       "restrictions": {
