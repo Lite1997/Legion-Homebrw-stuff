@@ -220,12 +220,12 @@
                   "Grenades": 1
               },
               "minis": [{
-                      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
-                      "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125783568/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/"
-                  },{
-                    "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
-                    "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125783568/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/"
-                }
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+              },{
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+              }
               ]
 
           }],
@@ -368,8 +368,8 @@
         "name": "Arc Commander Havoc",
         "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501178/D43E90E7B628967753AE232F826FAB392452163A/",
         "mini": {
-          "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
-          "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125891221/34EC84D7ECD99E073417866A9BEC4288E00F5359/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
         },
           "points": 38,
           "restrictions": {
@@ -382,8 +382,8 @@
     "name": "Arc Commander Blitz",
     "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501027/09CEE585096F91EDD599343E8201529E0A7CA833/",
     "mini": {
-      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1749078514125826276/5E248091F8CC37B1023257338D4947E4ADFE48AB/",
-      "Secondary": "http://cloud-3.steamusercontent.com/ugc/1749078514125888748/06BBAAAAC7FB68DAA9351F12008475068A96BFFB/"
+      "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+      "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
     },
       "points": 30,
       "restrictions": {
