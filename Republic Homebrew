@@ -220,12 +220,12 @@
                   "Grenades": 1
               },
               "minis": [{
-                      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457799750/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/",
-                      "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+                      "Mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785646423/F890985F1B31042E0BC10996930089A3A22BE5C5/",
+                      "Diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785647603/8F9ADBD1429C1AF247858C877548E15E5996F4A9/"
                   },
                   {
-                      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800134/88E2FEC812AD5E7B7570836120992252AC758BF8/",
-                      "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+                      "Mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
+                      "Diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/"
                   }
               ]
 
@@ -366,11 +366,11 @@
               }
         },
         {
-        "name": "Havoc",
+        "name": "Clone Commander Havoc",
         "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501178/D43E90E7B628967753AE232F826FAB392452163A/",
         "mini": {
-          "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800878/34EC84D7ECD99E073417866A9BEC4288E00F5359/",
-          "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+          "Mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321407636/9315381415E55B835F091392658CBFDED02249F3/",
+          "Diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321603337/2E6BED5A8C36B603A68124154A110C3444578111/"
         },
           "points": 38,
           "restrictions": {
@@ -380,11 +380,11 @@
           }
     },
     {
-    "name": "Blitz",
+    "name": "Clone Commander Blitz",
     "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501027/09CEE585096F91EDD599343E8201529E0A7CA833/",
     "mini": {
-      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800538/06BBAAAAC7FB68DAA9351F12008475068A96BFFB/",
-      "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+      "Mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321577529/3034903B0501BE08E398BCC7F0D735B308DA9377/",
+      "Diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321714095/A9DC1A4528317A777A1D5A9FA58C23A47F7E882B/"
     },
       "points": 30,
       "restrictions": {
@@ -419,7 +419,7 @@
             "points": 10,
             "restrictions": {
               "include": {
-                "Unit": ["Laat/I Gunship"]
+                "type": ["Laat/I Gunship"]
               }
             }
           },
@@ -429,7 +429,7 @@
             "points": 10,
             "restrictions": {
               "include": {
-                "Unit": ["Laat/I Gunship"]
+                "type": ["Laat/I Gunship"]
               }
             }
           },
@@ -439,7 +439,7 @@
             "points": 10,
             "restrictions": {
               "include": {
-                "Unit": ["Laat/I Gunship"]
+                "type": ["Laat/I Gunship"]
               }
             }
           }
@@ -451,8 +451,8 @@
             "image": "http://cloud-3.steamusercontent.com/ugc/1678142466926055312/EA4C440E05B0459CAC71EB5341D2B219F4DE88C2/",
             "points": 6,
             "restrictions": {
-            "include": {
-              "unit": ["Republic Commandos"]
+              "include": {
+                "unit": ["Republic Commandos"]
               }
             }
           }
