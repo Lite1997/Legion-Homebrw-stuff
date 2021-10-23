@@ -105,12 +105,12 @@
                 "commands": [
                   {
                     "name": "This is how it's done",
-                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125674471/28D006BC801DAAEB766A29DCBED29A3F90BADEE3/",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078754906371350/935FCBA3911C91A142A5E3667E32F4C8414BFEB9/",
                     "pip": 1
                   },
                   {
                     "name": "Shock Traps",
-                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125674828/E451A2D9BAB37ACC83FB87E7585A4BE5EBBD4E2A/",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078754906371502/6129CEF2496C4387F03388023711A0136AC90F3B/",
                     "pip": 2
                   },
                   {
@@ -220,11 +220,11 @@
                   "Grenades": 1
               },
               "minis": [{
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
               },{
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321070793/294DC7F7A6BE9E31AB2823745854EF8C31D3281A/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321714095/A9DC1A4528317A777A1D5A9FA58C23A47F7E882B/"
               }
               ]
 
@@ -368,8 +368,8 @@
         "name": "Arc Commander Havoc",
         "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501178/D43E90E7B628967753AE232F826FAB392452163A/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321070793/294DC7F7A6BE9E31AB2823745854EF8C31D3281A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321714095/A9DC1A4528317A777A1D5A9FA58C23A47F7E882B/"
         },
           "points": 38,
           "restrictions": {
@@ -382,8 +382,8 @@
     "name": "Arc Commander Blitz",
     "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501027/09CEE585096F91EDD599343E8201529E0A7CA833/",
     "mini": {
-      "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
-      "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+      "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321405998/BF99DA12AC60F2548F73F5D0D001419BFBFA5CB1/",
+      "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321603337/2E6BED5A8C36B603A68124154A110C3444578111/"
     },
       "points": 30,
       "restrictions": {
