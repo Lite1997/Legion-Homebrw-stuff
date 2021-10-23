@@ -220,12 +220,12 @@
                   "Grenades": 1
               },
               "minis": [{
-                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457799750/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/",
-                      "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+                      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457799750/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/",
+                      "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
                   },
                   {
-                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457800134/88E2FEC812AD5E7B7570836120992252AC758BF8/",
-                      "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+                      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800134/88E2FEC812AD5E7B7570836120992252AC758BF8/",
+                      "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
                   }
               ]
 
@@ -369,8 +369,8 @@
         "name": "Havoc",
         "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501178/D43E90E7B628967753AE232F826FAB392452163A/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457800878/34EC84D7ECD99E073417866A9BEC4288E00F5359/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+          "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800878/34EC84D7ECD99E073417866A9BEC4288E00F5359/",
+          "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
         },
           "points": 38,
           "restrictions": {
@@ -383,8 +383,8 @@
     "name": "Blitz",
     "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501027/09CEE585096F91EDD599343E8201529E0A7CA833/",
     "mini": {
-      "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457800538/06BBAAAAC7FB68DAA9351F12008475068A96BFFB/",
-      "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+      "Bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800538/06BBAAAAC7FB68DAA9351F12008475068A96BFFB/",
+      "Secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
     },
       "points": 30,
       "restrictions": {
