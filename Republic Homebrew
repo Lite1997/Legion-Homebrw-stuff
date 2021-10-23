@@ -51,7 +51,8 @@
                       "upgrades": {
                       "Command": 1,
                       "Training": 1,
-                      "Force": 2
+                      "Force": 2,
+                      "Grenades": 1
                       },
                       "minis": [
                         {
@@ -79,7 +80,48 @@
                     }
             ],
             
-            "Operative": [],
+            "Operative": [
+              
+              {
+                "name": "Commander Colt",
+                "title": "Honorable Soldier",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125676033/09DB84DB3E6B05EDB43D6B2C92E39080197F5A0C/",
+                "size": "small",
+                "type": "Clone Trooper",
+                "points": 90,
+                "speed": 2,
+                "upgrades": {
+                "Command": 1,
+                "Training": 1,
+                "Gear": 1,
+                "Comms": 1,
+                "Grenades": 1
+                },
+                "minis": [
+                  {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+                  }
+                ],
+                "commands": [
+                  {
+                    "name": "This is how it's done",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125674471/28D006BC801DAAEB766A29DCBED29A3F90BADEE3/",
+                    "pip": 1
+                  },
+                  {
+                    "name": "Shock Traps",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125674828/E451A2D9BAB37ACC83FB87E7585A4BE5EBBD4E2A/",
+                    "pip": 2
+                  },
+                  {
+                    "name": "Just Like The Simulations",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125675173/1E4DB430D970DBF55A4C916070CC7412162863AB/",
+                    "pip": 3
+                  }
+              ]
+              }
+            ],
             "Corps": [
                 {
                     "name": "Clone Trench Troopers",
@@ -163,12 +205,37 @@
                     }
                 ]
 
-            }],
+            },
+            {
+              "name": "Rancor Battalion",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861446473/BDCD19B6F0894E4799030E5F0A979702E4046112/",
+              "size": "small",
+              "type": "Clone Trooper",
+              "points": 50,
+              "speed": 2,
+              "upgrades": {
+                "Heavy Weapon": 2,
+                "Training": 1,
+                  "Comms": 1,
+                  "Gear": 2,
+                  "Grenades": 1
+              },
+              "minis": [{
+                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457802221/506D704E232C1BFD85F063A24EBF24C5914C2C40/",
+                      "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+                  },
+                  {
+                      "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457802621/01F605D855048F823A0ECA6C46D2A62B56C04124/",
+                      "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+                  }
+              ]
+
+          }],
             "Support": [],
             "Heavy": [
               {
                 "name": "LAAt/I Gunship",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605119287/C97A0AECF23C04C4DCCD589035F9A336AA3113FA/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125517143/67DE1E540DEC44123CEB613A0FE5AEEA93C95F72/",
                 "size": "epic",
                 "type": "Repulsor Vehicle",
                 "points": 145,
@@ -271,10 +338,10 @@
     "Hardpoint": [
         {
         "name": "Closed Side Doors",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605120044/5AD4ECC19A89C9128B6210B672D3104969A7AF55/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125517877/560F61D3AF0E53D7774FEFBA3FD8EC10C3890FAA/",
         "flip": {
             "name": "Open Side Doors",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1747951978605119777/0EB1C46C725F111EA312976A382F3D5D2A507B56/"
+            "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125517710/7DD4919575A94B5C76206C4D0A2F2F9F49F981FE/"
                 },
                 "points": 0,
         "restrictions": {
@@ -298,7 +365,35 @@
                   "unit": ["Clone Trench Troopers"]
             }
               }
-        }   
+        },
+        {
+        "name": "Havoc",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501178/D43E90E7B628967753AE232F826FAB392452163A/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457801321/CED1CD80F307683E79B9A4ED87CECAED7C070EBF/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+        },
+          "points": 38,
+          "restrictions": {
+            "include": {
+              "unit": ["Arc Troopers","Rancor Battalion"]
+        }
+          }
+    },
+    {
+    "name": "Blitz",
+    "image": "http://cloud-3.steamusercontent.com/ugc/1749078514125501027/09CEE585096F91EDD599343E8201529E0A7CA833/",
+    "mini": {
+      "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457799750/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/",
+      "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+    },
+      "points": 30,
+      "restrictions": {
+        "include": {
+          "unit": ["Arc Troopers","Rancor Battalion"]
+    }
+      }
+}   
     ],
     "Ordnance": [],
     "Personnel": [
