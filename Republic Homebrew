@@ -220,11 +220,12 @@
                   "Grenades": 1
               },
               "minis": [{
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785646423/F890985F1B31042E0BC10996930089A3A22BE5C5/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785647603/8F9ADBD1429C1AF247858C877548E15E5996F4A9/"
+              },
+              {
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321723321/9DF80B5ABC8219D5A5A0DE435605D80334FD81E8/"
-              },{
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321070793/294DC7F7A6BE9E31AB2823745854EF8C31D3281A/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321714095/A9DC1A4528317A777A1D5A9FA58C23A47F7E882B/"
               }
               ]
 
