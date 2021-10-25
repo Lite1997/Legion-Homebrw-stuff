@@ -6,24 +6,23 @@
             "Corps": [],
             "Special Forces": [],
             "Support": [],
-            "Heavy": [
-                
+            "Heavy": [                
               {
                 "name": "Og-9 Homing Spider Droid",
                 "image": "http://cloud-3.steamusercontent.com/ugc/1749078754911986015/0695F10BA47D1A45291EE4A381394C2C4BE69DC0/",
                 "size": "epic",
                 "type": "Ground Vehicle",
-                "points": 140,
+                "points": 155,
                 "speed": 1,
                 "upgrades": {
-                  "Comms": 1
+                    "Comms": 1
                 },
                 "minis": [{
                   "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455403167048357/2192FD561FA2D05EB86CC3AE445499640E570E21/",
                   "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455403164322367/DB9DC63C0285A43C8547D724F882063227910D89/"
                 }
-              ]
-              }
+                ]
+            }
                     ]
       }
     },
