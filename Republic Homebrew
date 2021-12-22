@@ -170,14 +170,45 @@
                         "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756247330312/5EB2C974DB1534ABFB15A041904F31DE6363FAC5/"
                       }
                     ]
+                  }, {
+                    "name": "Clone Environmental Assault Troopers",
+                    "image": "http://cloud-3.steamusercontent.com/ugc/1834652524917668213/DB56BF7766B3F2DABB85645CDA2CAC8532D94FF6/",
+                    "size": "small",
+                    "type": "Clone Trooper",
+                    "points": 54,
+                    "speed": 1,
+                    "upgrades": {
+                      "Personnel": 1,
+                      "Heavy Weapon": 1,
+                      "Gear": 1,
+                      "Comms": 1,
+                      "Grenades": 1
+                    },
+                    "minis": [{
+                        "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507071203/040CF6A943C83588994E5BD8C0DDB793F6DE9875/",
+                        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+                      },
+                      {
+                        "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507016826/760576DD3D314CB88313B54E105FB561009F8502/",
+                        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+                      },
+                      {
+                          "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425506623/121AA3B4552A900E92161C97E55443D4040D7886/",
+                          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785236717873393180/6359B491483DCD9B2641BA134DC4B92DE10E9D92/"
+                      },
+                      {
+                        "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
+                        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+                      }
+                    ]
                   }
             ],
             "Special Forces": [{
                 "name": "Republic Commandos",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861446473/BDCD19B6F0894E4799030E5F0A979702E4046112/",
+                "image": "http://cloud-3.steamusercontent.com/ugc/1834652524917596080/29D6495BEC2EE478B8CD4AA705344E7F7368F6CB/",
                 "size": "small",
                 "type": "Clone Trooper",
-                "points": 80,
+                "points": 100,
                 "speed": 2,
                 "upgrades": {
                     "Training": 1,
@@ -260,10 +291,10 @@
     "Armament": [
         {
         "name": "DC-17m Anti-Armor Config",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861446978/A164F9AD4862CBE4CD27C64CCD8A9B1C88E9B2F1/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1834652524917592337/0847DC26002EF932FAC3429E549AF507F3B98987/",
         "flip": {
             "name": "DC-17 Sniper Config",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861447249/AD305DB6DB506345FB48FFEC673FBEFCBA2D2E8D/"
+            "image": "http://cloud-3.steamusercontent.com/ugc/1834652524917592602/58D304254F28E74038D15F4BF2251D6682CA4399/"
                 },
                 "points": 10,
         "restrictions": {
@@ -310,26 +341,6 @@
               "unit": ["Republic Commandos"]
           }
       }
-      },
-      {
-        "name": "Bacta Injector",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1678142292861448054/43427D1664538575C2748DFAFD92B4ADCF5E4F31/",
-        "points": 8,
-        "restrictions": {
-            "include": {
-              "unit": ["Republic Commandos"]
-          }
-      }
-      },
-      {
-        "name": "Tactical Hud",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1678142466926054497/7AA7C65C78F6478E8B44FE4265E57F9E9EF0D599/",
-        "points": 8,
-        "restrictions": {
-            "include": {
-              "unit": ["Republic Commandos"]
-          }
-      }
       }
     ],
     "Generator": [],
@@ -351,7 +362,51 @@
         }
     ],
     "Heavy Weapon": [        
-        {
+      {
+        "name": "Dc-15s Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1834652524919188836/40DA4465FDA36A5755A70A331D79815CBEB39001/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785625549/5461468E09D086E4CF7E835AE69D6F4226690518/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785620873/E3B1226B0836CF579F16C490896D5E2DE95C31F5/"
+        },
+          "points": 28,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Environmental Assault Troopers"]
+        }
+          }
+    },  
+    {
+      "name": "Dc-15 Trooper",
+      "image": "http://cloud-3.steamusercontent.com/ugc/1834652524919189723/DF37B2578B74B14DE5CB9DAC9A1ABAB799C6DB11/",
+      "mini": {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506984196/E1DADD867AD088A500B4D44B6966A1BDA6F1A62A/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+      },
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["Clone Environmental Assault Troopers"]
+      }
+        }
+  },
+    
+  {
+    "name": "Clone Flame Trooper",
+    "image": "http://cloud-3.steamusercontent.com/ugc/1834652524919189238/EEB96B8DC72C9D3CD2E2FD9C6667EDBBA387F88B/",
+    "mini": {
+      "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425401629/49D60D4EE5794A206AF8F604A68F58979CFEBC42/",
+      "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415425408778/BD84B4C5CAA84DDA6302739AD749CD29B1C39669/"
+    },
+      "points": 24,
+      "restrictions": {
+        "include": {
+          "unit": ["Clone Environmental Assault Troopers"]
+    }
+      }
+},
+  
+    {
             "name": "Dc-15 Trooper",
             "image": "http://cloud-3.steamusercontent.com/ugc/1777212370119588551/B58F07E1B93652C99F86439223350C0532C17BBA/",
             "mini": {
