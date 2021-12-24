@@ -172,7 +172,7 @@
                     ]
                   },
                    {
-                    "name": "Clone Environ-Troopers",
+                    "name": "Clone EnvironTroopers",
                     "image": "http://cloud-3.steamusercontent.com/ugc/1834652524917668213/DB56BF7766B3F2DABB85645CDA2CAC8532D94FF6/",
                     "size": "small",
                     "type": "Clone Trooper",
@@ -373,7 +373,7 @@
           "points": 28,
           "restrictions": {
             "include": {
-              "unit": ["Clone Environ-Troopers"]
+              "unit": ["Clone Environ Troopers"]
         }
           }
     },  
