@@ -373,7 +373,7 @@
           "points": 28,
           "restrictions": {
             "include": {
-              "unit": ["Clone Environmental Assault Troopers"]
+              "unit": ["Clone Environ-Troopers"]
         }
           }
     },  
@@ -387,7 +387,7 @@
         "points": 22,
         "restrictions": {
           "include": {
-            "unit": ["Clone Environmental Assault Troopers"]
+            "unit": ["Clone Environ-Troopers"]
       }
         }
   },
@@ -402,7 +402,7 @@
       "points": 24,
       "restrictions": {
         "include": {
-          "unit": ["Clone Environmental Assault Troopers"]
+          "unit": ["Clone Environ-Troopers"]
     }
       }
 },
